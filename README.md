@@ -1,7 +1,9 @@
 
 ## NESP-project
 
---------------------------------------------------------------------------------
+Node, Express, Sequelize, Postgres project
+
+---
 
 #### About:
 
@@ -63,6 +65,21 @@ npm start
 #### Published API documentation:
 
 - [Postman Collection](https://documenter.getpostman.com/view/1747137/Uyxbq9Vy)
+
+#### Useful links:
+
+- [Creating user, database and adding access on PostgreSQL](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
+- [PostgreSQL Drop Database with Examples](https://phoenixnap.com/kb/postgresql-drop-database)
+- [express-useragent](https://www.npmjs.com/package/express-useragent)
+- [Sequelize upsert method - Tutorial with example JS code](https://sebhastian.com/sequelize-upsert/)
+- [sequelize.import is not a function](https://stackoverflow.com/questions/62917111/sequelize-import-is-not-a-function)
+- [Selecting a random record from Sequelize findAll](https://stackoverflow.com/questions/42146200/selecting-a-random-record-from-sequelize-findall)
+- [node.js sequelize: multiple 'where' query conditions](https://stackoverflow.com/questions/10807765/node-js-sequelize-multiple-where-query-conditions)
+- [Sequelize error when using "where" and "in" on a subarray](https://stackoverflow.com/questions/24920427/sequelize-error-when-using-where-and-in-on-a-subarray)
+- [Default value for created_at or updated_at isn't added when using underscored: true #10754](https://github.com/sequelize/sequelize/issues/10754)
+- [Add automatic createdAt and updatedAt timestamps in migration](https://stackoverflow.com/questions/50735578/add-automatic-createdat-and-updatedat-timestamps-in-migration)
+- [allowNull: false and defaultValue: Sequelize.NOW not populating field with default value. #645](https://github.com/sequelize/sequelize/issues/645)
+- [Nodejs sequelize bulk upsert](https://stackoverflow.com/questions/48124949/nodejs-sequelize-bulk-upsert)
 
 #### Author:
 
